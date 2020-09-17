@@ -1,7 +1,8 @@
 # Alena Labuko
 
 ## Contact Info
-__City:__ Zhlobin    
+__City:__ Zhlobin  
+__Phone__ +375 29 123 45 67   
 __E-mail:__ [alena-ulyana-90@mail.ru](alena-ulyana-90@mail.ru)
 
 ## Personal Information
